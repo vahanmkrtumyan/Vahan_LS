@@ -11,7 +11,7 @@
     "dev": "concurrently \"npm run server\" \"npm run client\"",
     "test": "jest --watchAll --verbose"
   },
-  "author": "Brad Traversy",
+  "author": "Vahan Mkrtumyan",
   "license": "MIT",
   "devDependencies": {
     "jest": "^24.9.0",
